@@ -1,0 +1,11 @@
+{
+  "shard_index": 36,
+  "suite": "ed25519-ct-limb-verifier",
+  "standard": "IETF RFC 8032 / Wycheproof Constant-Time Suite",
+  "lane_anchor_u48": "0x8B28C0074413",
+  "companion_suite": "https://github.com/IES-BoilerRoom/mcp-sse-frame-conformance",
+  "companion_schema_digest": "sha256-620e2546f84bbfa7",
+  "byte_order": "little",
+  "next_shard": "shards/spec_37.json",
+  "epoch_beacon": "http://157.151.170.68:11449/v1/conformance/epoch?suite=ed25519-ct-limb-verifier&s=36"
+}
